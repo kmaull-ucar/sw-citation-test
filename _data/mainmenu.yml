@@ -1,0 +1,10 @@
+menu:
+  - title: Recommendation
+    url: /pages/recommendation.html
+#    submenu:
+#      - title: Submenu Item
+#        url: /jekyll-koru-test/pages/submenu.html
+  - title: Examples
+    url: /pages/examples.html
+  - title: Support
+    url: /pages/support.html
